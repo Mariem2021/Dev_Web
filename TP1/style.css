@@ -1,0 +1,30 @@
+
+
+#titre {
+    color: crimson;
+    font-style: bold;
+    text-align: center;
+}
+
+fieldset {
+    color: crimson;
+    
+    
+}
+
+body {
+    margin-left: 15%;
+    margin-right: 15%;
+   
+}
+
+.left , .right {
+    float: left;
+    margin-right: 10%;
+    padding: auto;
+    display: block;
+}
+#cadre {
+    border: 3px crimson solid;
+    background-color: cornsilk;
+}
